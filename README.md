@@ -9,7 +9,7 @@
 ## The challenge
 
 This is the first challenge from the [Freecodecamp](https://www.youtube.com/watch?v=5fb2aPlgoys&t=2909s) DOM manipulation tutorial.
-The challenge consist of a quotes generator, where by clicking a button the user will be able to see a random quote.
+The challenge consist of displaying a box with a message with some JS and a transition animation.
 
 
 ### Links
@@ -20,17 +20,17 @@ The challenge consist of a quotes generator, where by clicking a button the user
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
+- CSS custom properties & animation
 - JavaScript
 
 ### What I learned
 
 Thanks to this tutorial I have learnt and practised the following DOM manipulation concepts:
-- querySelector()
+- getElementById()
 - addEventListener()
-- innerText
+- e.target
+- CSS styling through JS
+- CSS Animation
 
 Would you like to know what the DOM is and what other concepts exist to manipulate and make cool and fun interactions? I have created 2 tutorials to explain and put in practise all concepts. Check them out:
 - [DOM manipulation I: what is the DOM? Selectors, styling, text modifiers & events](https://www.cristina-padilla.com/dom1.html).
