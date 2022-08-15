@@ -1,4 +1,4 @@
-# DOM Manipulation: Quotes generator
+# DOM Manipulation: Modal
 
 
 ## Overview
