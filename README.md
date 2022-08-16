@@ -8,13 +8,13 @@
 
 ## The challenge
 
-This is the first challenge from the [Freecodecamp](https://www.youtube.com/watch?v=5fb2aPlgoys&t=2909s) DOM manipulation tutorial.
+This is the second challenge from the [Freecodecamp](https://www.youtube.com/watch?v=5fb2aPlgoys&t=2909s) DOM manipulation tutorial.
 The challenge consist of displaying a box with a message with some JS and a transition animation.
 
 
 ### Links
 
-- Solution [here](https://dynamic-haupia-331709.netlify.app/)
+- Solution [here](https://famous-alpaca-4e53f4.netlify.app/)
 
 
 ### Built with
